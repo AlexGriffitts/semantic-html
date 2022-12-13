@@ -18,7 +18,7 @@ Challenges adhere to a format that's commonly used by software development teams
 
 > **Deep Dive**: To learn more about agile, read this [Wikipedia article on agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 
-[Click here to see my final project] (xxxxxxxxxxxxxxx)
+[Click here to see my final project] (https://alexgriffitts.github.io/semantic-html/)
 
 ![This picture shows a meeting in progress regarding digital marketing.](./Assets/images/digital-marketing-meeting.jpg)
 Each Challenge contains the following elements:
